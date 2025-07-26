@@ -5,3 +5,5 @@
 https://www.kaggle.com/competitions/aait-asg-2-task-1
 
 https://www.kaggle.com/competitions/aait-asg-2-task-2
+
+## Face Generation and Editing with Custom VAE models
